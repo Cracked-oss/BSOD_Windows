@@ -77,9 +77,7 @@ cd BSOD_Windows
 ## Usage
 
 1. Run the executable as Administrator
-2. Follow the on-screen instructions
-3. Press the specified key combination to trigger the demo
-4. Use the escape sequence to exit the demonstration
+2. App will execute on the date and time you set up 
 
 ## Safety Features
 
