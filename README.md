@@ -111,4 +111,4 @@ If you find this project helpful and want to support my work, you can contribute
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
 
 ---
-⚠️ Remember: This is a demonstration tool. Use responsibly and legally.
+⚠️ Remember: This is a dangerous tool. Use responsibly and legally.
