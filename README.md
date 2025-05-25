@@ -97,11 +97,18 @@ This software is provided "as is", without warranty of any kind. Use at your own
 
 [Cracked-oss](https://github.com/Cracked-oss)
 
-## Acknowledgments
+## 💰 Support My Work
 
-- Windows Development Team
-- Open Source Community
-- All Contributors
+If you find this project helpful and want to support my work, you can contribute through:
+
+### 💎 Crypto Donations
+| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
+|:---:|
+| `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
+| USDT (TRC20 Network) |
+
+### Buy Me a Coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
 
 ---
 ⚠️ Remember: This is a demonstration tool. Use responsibly and legally.
